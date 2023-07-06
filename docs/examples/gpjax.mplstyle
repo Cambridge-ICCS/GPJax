@@ -17,7 +17,7 @@ mathtext.fontset: cm
 font.family: serif
 font.serif: Computer Modern Roman
 font.size: 10
-text.usetex: True
+text.usetex: False
 
 # Axes ticks
 ytick.left: True
